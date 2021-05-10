@@ -1,0 +1,65 @@
+.palestrantes {
+    text-align: center;
+    margin-top: 40px;
+    background-color: #F17E50;
+}
+
+.palestrantes .area-palestrantes {
+    padding: 20px 0 15px 0;
+}
+
+.area-palestrantes .titulo-palestrantes {
+    font-size: 28px;
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.area-palestrantes .subtitulo-palestrantes {
+    font-size: 20px;
+    color: white;
+}
+
+.palestrantes .container-palestrantes {
+    display: inline-block;
+    width: 300px;
+    
+    background-color: white;
+
+    margin: 0 20px 20px 20px;
+    border-radius: 10px;
+    vertical-align: top;
+}
+
+.container-palestrantes .card {
+    padding: 30px;
+}
+
+.container-palestrantes img {
+    width: 200px;
+    height: 200px;
+    background-color: lightgray;
+    border-radius: 50%;
+}
+
+.container-palestrantes .nome-palestrante {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 10px 0 10px 0;
+}
+
+.container-palestrantes .formacao-palestrante {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.container-palestrantes .descricoes {
+    text-align: justify;
+
+    font-size: 16px;
+}
+
+
+
+
